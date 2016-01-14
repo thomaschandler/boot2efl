@@ -1,0 +1,10 @@
+build/
+src/
+cache/
+sstate-cache/
+downloads/
+tmp*/
+*~
+bitbake.lock
+conf/auto.conf
+conf/sanity_info

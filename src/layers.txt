@@ -1,0 +1,4 @@
+bitbake,git://github.com/openembedded/bitbake.git,1.26,a9e23e0066ea4dc16806ed3d269587ad1c895353
+meta-boot2efl,https://github.com/Openwide-Ingenierie/meta-boot2efl.git,master,adf99415c09baf87f84ac1b1c52f3618babf54ba
+meta-openembedded,https://github.com/openembedded/meta-openembedded.git,fido,df2f700d66bace65f5d802225232d01cf511fe81
+oe-core,https://github.com/openembedded/openembedded-core.git,fido,b08ee8478f0cc2e2f9394c7e209dae45de2d845e

@@ -1,5 +1,6 @@
 build/
-src/
+src/meta*
+src/bitakegi
 cache/
 sstate-cache/
 downloads/

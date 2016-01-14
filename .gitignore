@@ -1,6 +1,7 @@
 build/
 src/meta*
-src/bitakegi
+src/bitake
+src/oe-core
 cache/
 sstate-cache/
 downloads/
